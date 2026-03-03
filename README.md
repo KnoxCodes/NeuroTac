@@ -9,6 +9,23 @@ The model learns by imitating an optimal rule-based teacher and achieves:
 
 ---
 
+## 📸 Screenshots
+
+### 🤝 Win Against User
+![Draw](screenshots/win_state.png)
+
+---
+
+### 🎯 Training Loss Curve
+![Loss Curve](screenshots/loss_curve.png)
+
+---
+
+### 🎮 Gameplay
+![Gameplay](screenshots/gameplay.png)
+
+---
+
 ## 🧠 Project Overview
 
 This project demonstrates:
