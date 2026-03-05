@@ -1,4 +1,4 @@
-# NeuroTac
+# NeuroTac  
 
 NeuroTac is an Artificial Neural Network that learns to play Tic Tac Toe using supervised imitation learning (behavior cloning).
 
